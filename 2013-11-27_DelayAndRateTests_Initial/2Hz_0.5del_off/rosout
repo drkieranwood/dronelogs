@@ -1,0 +1,363 @@
+%time,field.header.seq,field.header.stamp,field.header.frame_id,field.level,field.name,field.msg,field.file,field.function,field.line,field.topics0
+1385571602288170153,5,1385571602288170153,,2,/record_1385571602272838160,Subscribing to /rosout,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602290477825,6,1385571602290477825,,2,/record_1385571602272838160,Subscribing to /vicon/Archie/Archie,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602292387737,7,1385571602292387737,,2,/record_1385571602272838160,Subscribing to /vicon_ned,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602293727784,8,1385571602293727784,,2,/record_1385571602272838160,Subscribing to /vslam/key_pressed,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602295050332,9,1385571602295050332,,2,/record_1385571602272838160,Subscribing to /vslam/pose,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602296222839,10,1385571602296222839,,2,/record_1385571602272838160,Subscribing to /vslam_ned,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602297211490,11,1385571602297211490,,2,/record_1385571602272838160,Subscribing to /ardrone/camera_info,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602299020766,12,1385571602299020766,,2,/record_1385571602272838160,Subscribing to /vslam/info,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602300374072,13,1385571602300374072,,2,/record_1385571602272838160,Subscribing to /cmd_vel_del,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,198,/rosout
+1385571602302361565,14,1385571602302361565,,2,/record_1385571602272838160,Recording to 2013-11-27-17-00-02.bag.,/tmp/buildd/ros-fuerte-ros-comm-1.8.16-1precise-20130502-1635/tools/rosbag/src/recorder.cpp,Recorder::startWriting,360,/rosout
+1385571522576481031,3207,1385571522576481031,,4,/vicon,Archie occluded, not publishing... ,/home/kieran/fuerte_ardrone_workspace/established/ros-drivers/vicon_bridge/src/vicon_bridge.cpp,process_subjects,502,/rosout,/diagnostics,/tf,/vicon/markers,/vicon/Archie/Archie
+1385571602465916034,22308,1385571602465916034,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00584s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385570552584381488,31,1385570552584381488,,2,/ardrone_driver,    Drone Navdata Send Speed: 15Hz (navdata_demo=1),/home/kieran/fuerte_ardrone_workspace/established/ardrone_autonomy/src/ardrone_driver.cpp,run,145,/rosout,/tf,/ardrone/image_raw/compressedDepth,/ardrone/image_raw/compressedDepth/parameter_descriptions,/ardrone/image_raw/compressedDepth/parameter_updates,/ardrone/image_raw/compressed,/ardrone/image_raw/compressed/parameter_descriptions,/ardrone/image_raw/compressed/parameter_updates,/ardrone/image_raw,/ardrone/image_raw/theora,/ardrone/image_raw/theora/parameter_descriptions,/ardrone/image_raw/theora/parameter_updates,/ardrone/camera_info,/ardrone/front/image_raw/compressedDepth,/ardrone/front/image_raw/compressedDepth/parameter_descriptions,/ardrone/front/image_raw/compressedDepth/parameter_updates,/ardrone/front/image_raw/compressed,/ardrone/front/image_raw/compressed/parameter_descriptions,/ardrone/front/image_raw/compressed/parameter_updates,/ardrone/front/image_raw,/ardrone/front/image_raw/theora,/ardrone/front/image_raw/theora/parameter_descriptions,/ardrone/front/image_raw/theora/parameter_updates,/ardrone/front/camera_info,/ardrone/bottom/image_raw/compressedDepth,/ardrone/bottom/image_raw/compressedDepth/parameter_descriptions,/ardrone/bottom/image_raw/compressedDepth/parameter_updates,/ardrone/bottom/image_raw/compressed,/ardrone/bottom/image_raw/compressed/parameter_descriptions,/ardrone/bottom/image_raw/compressed/parameter_updates,/ardrone/bottom/image_raw,/ardrone/bottom/image_raw/theora,/ardrone/bottom/image_raw/theora/parameter_descriptions,/ardrone/bottom/image_raw/theora/parameter_updates,/ardrone/bottom/camera_info
+1385571548572301065,3,1385571548572301065,,2,/outdelay,outdelay::Start loop at 1000.000Hz,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,147,/rosout,/cmd_vel
+1385571603623760256,97,1385571603623760256,,2,/flyvslam,flyvslam::Gain file closed.,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/lqg_control.cpp,string),263,/rosout
+1385571605639417995,98,1385571605639417995,,2,/flyvslam,flyvslam::TAKEOFF,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/flyvslam.cpp,main,231,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571605639557348,99,1385571605639557348,,2,/flyvslam,flyvslam::File opened...,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/waypoint_data.cpp,readWaypointData,121,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571605639770925,100,1385571605639770925,,2,/flyvslam,flyvslam::...read 5 waypoints,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/waypoint_data.cpp,readWaypointData,196,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571606142207345,4,1385571606142207345,,2,/outdelay,outdelay::Delay time: 0.50103s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571606632125663,5,1385571606632125663,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571607131135840,6,1385571607131135840,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571607631154933,7,1385571607631154933,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571608132116641,8,1385571608132116641,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571608465916429,22309,1385571608465916429,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00382s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571608631118962,9,1385571608631118962,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571609131143667,10,1385571609131143667,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571609631124129,11,1385571609631124129,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571610131269968,12,1385571610131269968,,2,/outdelay,outdelay::Delay time: 0.50016s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571610632399360,13,1385571610632399360,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571610640164637,101,1385571610640164637,,2,/flyvslam,flyvslam::Changed to waypoint: 2,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/waypoint_data.cpp,Vector<3> waypoint_data::getTargetPos,72,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571611131120530,14,1385571611131120530,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571611631235985,15,1385571611631235985,,2,/outdelay,outdelay::Delay time: 0.50013s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571612131140592,16,1385571612131140592,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571612632114005,17,1385571612632114005,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571613131135156,18,1385571613131135156,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571613631129424,19,1385571613631129424,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571614131137576,20,1385571614131137576,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571614465914789,22310,1385571614465914789,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00383s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571614631125049,21,1385571614631125049,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571615131124449,22,1385571615131124449,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571615631123853,23,1385571615631123853,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571616131120191,24,1385571616131120191,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571616631127302,25,1385571616631127302,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571617131140079,26,1385571617131140079,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571617631136286,27,1385571617631136286,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571618131171948,28,1385571618131171948,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571618632227643,29,1385571618632227643,,2,/outdelay,outdelay::Delay time: 0.50108s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571619131123800,30,1385571619131123800,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571619631157724,31,1385571619631157724,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571620131130331,32,1385571620131130331,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571620465915920,22311,1385571620465915920,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01784s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571620631142724,33,1385571620631142724,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571621131135028,34,1385571621131135028,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571621631374523,35,1385571621631374523,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571622131152855,36,1385571622131152855,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571622632117649,37,1385571622632117649,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571623131131229,38,1385571623131131229,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571623631188435,39,1385571623631188435,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571624131395104,40,1385571624131395104,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571624631152703,41,1385571624631152703,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571625131320157,42,1385571625131320157,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571625632120698,43,1385571625632120698,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571626131168966,44,1385571626131168966,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571626465938408,22312,1385571626465938408,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.07184s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571626632110224,45,1385571626632110224,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571627131128993,46,1385571627131128993,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571627631122749,47,1385571627631122749,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571628131114276,48,1385571628131114276,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571628631155740,49,1385571628631155740,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571629131120287,50,1385571629131120287,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571629631159924,51,1385571629631159924,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571630132236788,52,1385571630132236788,,2,/outdelay,outdelay::Delay time: 0.50106s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571630631121056,53,1385571630631121056,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571630640147838,102,1385571630640147838,,2,/flyvslam,flyvslam::Changed to waypoint: 3,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/waypoint_data.cpp,Vector<3> waypoint_data::getTargetPos,72,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571631131131951,54,1385571631131131951,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571631631148776,55,1385571631631148776,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571632131125952,56,1385571632131125952,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571632465915379,22313,1385571632465915379,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01184s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571632631129023,57,1385571632631129023,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571633131125314,58,1385571633131125314,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571633631128822,59,1385571633631128822,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571634131121602,60,1385571634131121602,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571634631245314,61,1385571634631245314,,2,/outdelay,outdelay::Delay time: 0.50012s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571635131122492,62,1385571635131122492,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571635631137607,63,1385571635631137607,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571636131137732,64,1385571636131137732,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571636631340436,65,1385571636631340436,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571637132118454,66,1385571637132118454,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571637631206917,67,1385571637631206917,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571638131127206,68,1385571638131127206,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571638465916925,22314,1385571638465916925,,2,/imlim,imlim::Current rate: 10.003Hz, delay: 0.03781s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571638631391420,69,1385571638631391420,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571639131158780,70,1385571639131158780,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571639632109645,71,1385571639632109645,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571640131123701,72,1385571640131123701,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571640631128679,73,1385571640631128679,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571641132113452,74,1385571641132113452,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571641631125102,75,1385571641631125102,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571642131130868,76,1385571642131130868,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571642631414836,77,1385571642631414836,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571643131132229,78,1385571643131132229,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571643632107452,79,1385571643632107452,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571644131137393,80,1385571644131137393,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571644465970799,22315,1385571644465970799,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00979s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571644631127190,81,1385571644631127190,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571645131159064,82,1385571645131159064,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571645631127688,83,1385571645631127688,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571646131139612,84,1385571646131139612,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571646632127510,85,1385571646632127510,,2,/outdelay,outdelay::Delay time: 0.50101s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571647131123553,86,1385571647131123553,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571647631124922,87,1385571647631124922,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571648131138530,88,1385571648131138530,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571648631421721,89,1385571648631421721,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571649131135944,90,1385571649131135944,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571649632220882,91,1385571649632220882,,2,/outdelay,outdelay::Delay time: 0.50106s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571650131125366,92,1385571650131125366,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571650465929205,22316,1385571650465929205,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01183s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571650631394296,93,1385571650631394296,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571651131149162,94,1385571651131149162,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571651632089618,95,1385571651632089618,,2,/outdelay,outdelay::Delay time: 0.50097s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571652131380633,96,1385571652131380633,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571652631125599,97,1385571652631125599,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571653131127272,98,1385571653131127272,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571653631125934,99,1385571653631125934,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571654132402793,100,1385571654132402793,,2,/outdelay,outdelay::Delay time: 0.50110s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571654631137655,101,1385571654631137655,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571655131224995,102,1385571655131224995,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571655631144417,103,1385571655631144417,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571656131218061,104,1385571656131218061,,2,/outdelay,outdelay::Delay time: 0.50010s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571656465931025,22317,1385571656465931025,,2,/imlim,imlim::Current rate:  9.998Hz, delay: 0.05384s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571656631223118,105,1385571656631223118,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571657131263553,106,1385571657131263553,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571657632210039,107,1385571657632210039,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571658131241120,108,1385571658131241120,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571658631238653,109,1385571658631238653,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571659132214775,110,1385571659132214775,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571659631234299,111,1385571659631234299,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571660131332565,112,1385571660131332565,,2,/outdelay,outdelay::Delay time: 0.50013s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571660631364709,113,1385571660631364709,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571661132424622,114,1385571661132424622,,2,/outdelay,outdelay::Delay time: 0.50108s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571661630625586,115,1385571661630625586,,2,/outdelay,outdelay::Delay time: 0.50014s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571662131345217,116,1385571662131345217,,2,/outdelay,outdelay::Delay time: 0.50087s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571662465950464,22318,1385571662465950464,,2,/imlim,imlim::Current rate: 10.003Hz, delay: 0.02380s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571662631356289,117,1385571662631356289,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571663132355658,118,1385571663132355658,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571663631354883,119,1385571663631354883,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571664132356884,120,1385571664132356884,,2,/outdelay,outdelay::Delay time: 0.50101s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571664630635286,121,1385571664630635286,,2,/outdelay,outdelay::Delay time: 0.50023s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571665131361034,122,1385571665131361034,,2,/outdelay,outdelay::Delay time: 0.50085s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571665632330814,123,1385571665632330814,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571666131344667,124,1385571666131344667,,2,/outdelay,outdelay::Delay time: 0.50097s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571666631362262,125,1385571666631362262,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571667132473620,126,1385571667132473620,,2,/outdelay,outdelay::Delay time: 0.50111s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571667631482575,127,1385571667631482575,,2,/outdelay,outdelay::Delay time: 0.50073s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571668130635324,128,1385571668130635324,,2,/outdelay,outdelay::Delay time: 0.50014s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571668465917599,22319,1385571668465917599,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01785s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571668631474072,129,1385571668631474072,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571669130601478,130,1385571669130601478,,2,/outdelay,outdelay::Delay time: 0.50013s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571669630660424,131,1385571669630660424,,2,/outdelay,outdelay::Delay time: 0.50018s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571670130626636,132,1385571670130626636,,2,/outdelay,outdelay::Delay time: 0.50015s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571670630483330,133,1385571670630483330,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571671130530083,134,1385571671130530083,,2,/outdelay,outdelay::Delay time: 0.50006s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571671630679438,135,1385571671630679438,,2,/outdelay,outdelay::Delay time: 0.50016s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571672130659810,136,1385571672130659810,,2,/outdelay,outdelay::Delay time: 0.50016s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571672631487085,137,1385571672631487085,,2,/outdelay,outdelay::Delay time: 0.50094s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571673131481809,138,1385571673131481809,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571673631464556,139,1385571673631464556,,2,/outdelay,outdelay::Delay time: 0.50101s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571674130666575,140,1385571674130666575,,2,/outdelay,outdelay::Delay time: 0.50023s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571674465915085,22320,1385571674465915085,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01784s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571674631532923,141,1385571674631532923,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571675131550576,142,1385571675131550576,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571675631537829,143,1385571675631537829,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571676130690334,144,1385571676130690334,,2,/outdelay,outdelay::Delay time: 0.50016s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571676630794643,145,1385571676630794643,,2,/outdelay,outdelay::Delay time: 0.50021s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571677131788724,146,1385571677131788724,,2,/outdelay,outdelay::Delay time: 0.50102s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571677630707051,147,1385571677630707051,,2,/outdelay,outdelay::Delay time: 0.50017s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571678131826872,148,1385571678131826872,,2,/outdelay,outdelay::Delay time: 0.50073s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571678631551322,149,1385571678631551322,,2,/outdelay,outdelay::Delay time: 0.50097s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571679131732056,150,1385571679131732056,,2,/outdelay,outdelay::Delay time: 0.50115s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571679630762578,151,1385571679630762578,,2,/outdelay,outdelay::Delay time: 0.50021s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571680130738683,152,1385571680130738683,,2,/outdelay,outdelay::Delay time: 0.50016s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571680465921846,22321,1385571680465921846,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01381s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571680631525762,153,1385571680631525762,,2,/outdelay,outdelay::Delay time: 0.50094s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571681130990528,154,1385571681130990528,,2,/outdelay,outdelay::Delay time: 0.50026s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571681631520827,155,1385571681631520827,,2,/outdelay,outdelay::Delay time: 0.50087s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571682130675498,156,1385571682130675498,,2,/outdelay,outdelay::Delay time: 0.50015s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571682630678776,157,1385571682630678776,,2,/outdelay,outdelay::Delay time: 0.50015s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571683130583285,158,1385571683130583285,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571683630717397,159,1385571683630717397,,2,/outdelay,outdelay::Delay time: 0.50015s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571684130597062,160,1385571684130597062,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571684631663840,161,1385571684631663840,,2,/outdelay,outdelay::Delay time: 0.50109s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571685131526514,162,1385571685131526514,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571685630574036,163,1385571685630574036,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571686130690291,164,1385571686130690291,,2,/outdelay,outdelay::Delay time: 0.50015s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571686465909924,22322,1385571686465909924,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01186s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571686630670878,165,1385571686630670878,,2,/outdelay,outdelay::Delay time: 0.50014s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571687131523266,166,1385571687131523266,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571687630683005,167,1385571687630683005,,2,/outdelay,outdelay::Delay time: 0.50012s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571688130767792,168,1385571688130767792,,2,/outdelay,outdelay::Delay time: 0.50021s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571688631133227,169,1385571688631133227,,2,/outdelay,outdelay::Delay time: 0.50057s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571689131123601,170,1385571689131123601,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571689631120286,171,1385571689631120286,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571690131162293,172,1385571690131162293,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571690632108062,173,1385571690632108062,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571691131138595,174,1385571691131138595,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571691631127061,175,1385571691631127061,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571692131117537,176,1385571692131117537,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571692465920770,22323,1385571692465920770,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.02186s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571692631147544,177,1385571692631147544,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571693132107493,178,1385571693132107493,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571693631116466,179,1385571693631116466,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571694131143894,180,1385571694131143894,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571694631141756,181,1385571694631141756,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571695131332350,182,1385571695131332350,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571695631612357,183,1385571695631612357,,2,/outdelay,outdelay::Delay time: 0.50018s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571696132156664,184,1385571696132156664,,2,/outdelay,outdelay::Delay time: 0.50096s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571696632101689,185,1385571696632101689,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571697131148031,186,1385571697131148031,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571697632300928,187,1385571697632300928,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571698131250389,188,1385571698131250389,,2,/outdelay,outdelay::Delay time: 0.50013s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571698465929736,22324,1385571698465929736,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.03384s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571698631406408,189,1385571698631406408,,2,/outdelay,outdelay::Delay time: 0.50029s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571699132132660,190,1385571699132132660,,2,/outdelay,outdelay::Delay time: 0.50084s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571699631124856,191,1385571699631124856,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571700131323184,192,1385571700131323184,,2,/outdelay,outdelay::Delay time: 0.50013s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571700632123766,193,1385571700632123766,,2,/outdelay,outdelay::Delay time: 0.50101s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571701131128813,194,1385571701131128813,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571701631168427,195,1385571701631168427,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571702132103447,196,1385571702132103447,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571702631142977,197,1385571702631142977,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571703131119500,198,1385571703131119500,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571703631143481,199,1385571703631143481,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571704131152305,200,1385571704131152305,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571704465932528,22325,1385571704465932528,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00182s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571704631240405,201,1385571704631240405,,2,/outdelay,outdelay::Delay time: 0.50012s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571705131183974,202,1385571705131183974,,2,/outdelay,outdelay::Delay time: 0.50005s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571705632104962,203,1385571705632104962,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571706131233519,204,1385571706131233519,,2,/outdelay,outdelay::Delay time: 0.50011s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571706631147562,205,1385571706631147562,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571707131129793,206,1385571707131129793,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571707631131714,207,1385571707631131714,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571708131118719,208,1385571708131118719,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571708631151004,209,1385571708631151004,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571709131199049,210,1385571709131199049,,2,/outdelay,outdelay::Delay time: 0.50008s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571709632098766,211,1385571709632098766,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571710131338756,212,1385571710131338756,,2,/outdelay,outdelay::Delay time: 0.50021s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571710465944313,22326,1385571710465944313,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.02381s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571710632113672,213,1385571710632113672,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571711131142203,214,1385571711131142203,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571711631215884,215,1385571711631215884,,2,/outdelay,outdelay::Delay time: 0.50011s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571712131152130,216,1385571712131152130,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571712631142625,217,1385571712631142625,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571713132119691,218,1385571713132119691,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571713632269415,219,1385571713632269415,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571714131116232,220,1385571714131116232,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571714631123344,221,1385571714631123344,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571715131613836,222,1385571715131613836,,2,/outdelay,outdelay::Delay time: 0.50027s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571715632121492,223,1385571715632121492,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571716131129844,224,1385571716131129844,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571716465932705,22327,1385571716465932705,,2,/imlim,imlim::Current rate:  9.999Hz, delay: 0.02384s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571716631304119,225,1385571716631304119,,2,/outdelay,outdelay::Delay time: 0.50016s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571717132104874,226,1385571717132104874,,2,/outdelay,outdelay::Delay time: 0.50094s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571717631128017,227,1385571717631128017,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571718131130888,228,1385571718131130888,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571718631134571,229,1385571718631134571,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571719132122886,230,1385571719132122886,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571719632114516,231,1385571719632114516,,2,/outdelay,outdelay::Delay time: 0.50101s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571720131131865,232,1385571720131131865,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571720631121700,233,1385571720631121700,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571721131147293,234,1385571721131147293,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571721631169220,235,1385571721631169220,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571722132121856,236,1385571722132121856,,2,/outdelay,outdelay::Delay time: 0.50098s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571722465936473,22328,1385571722465936473,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.01587s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571722631443883,237,1385571722631443883,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571723131151825,238,1385571723131151825,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571723632103167,239,1385571723632103167,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571724131144094,240,1385571724131144094,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571724631184145,241,1385571724631184145,,2,/outdelay,outdelay::Delay time: 0.50006s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571725131167958,242,1385571725131167958,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571725632146327,243,1385571725632146327,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571726131193160,244,1385571726131193160,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571726632151076,245,1385571726632151076,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571727131159349,246,1385571727131159349,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571727631154103,247,1385571727631154103,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571728131166206,248,1385571728131166206,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571728465919215,22329,1385571728465919215,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00189s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571728631353652,249,1385571728631353652,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571729131172741,250,1385571729131172741,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571729632357989,251,1385571729632357989,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571730131162089,252,1385571730131162089,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571730631153733,253,1385571730631153733,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571731131185252,254,1385571731131185252,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571731632146522,255,1385571731632146522,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571732131380449,256,1385571732131380449,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571732632137595,257,1385571732632137595,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571733131196973,258,1385571733131196973,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571733631180387,259,1385571733631180387,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571734132257602,260,1385571734132257602,,2,/outdelay,outdelay::Delay time: 0.50111s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571734465919633,22330,1385571734465919633,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.03784s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571734632252898,261,1385571734632252898,,2,/outdelay,outdelay::Delay time: 0.50110s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571735131154242,262,1385571735131154242,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571735631187834,263,1385571735631187834,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571736131420265,264,1385571736131420265,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571736632288623,265,1385571736632288623,,2,/outdelay,outdelay::Delay time: 0.50112s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571737131337476,266,1385571737131337476,,2,/outdelay,outdelay::Delay time: 0.50017s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571737632191191,267,1385571737632191191,,2,/outdelay,outdelay::Delay time: 0.50101s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571738131442853,268,1385571738131442853,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571738631153255,269,1385571738631153255,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571739131176531,270,1385571739131176531,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571739631348944,271,1385571739631348944,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571740131157931,272,1385571740131157931,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571740465932970,22331,1385571740465932970,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00380s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571740631165314,273,1385571740631165314,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571741131156865,274,1385571741131156865,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571741631157675,275,1385571741631157675,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571742131191829,276,1385571742131191829,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571742631311979,277,1385571742631311979,,2,/outdelay,outdelay::Delay time: 0.50015s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571743131202302,278,1385571743131202302,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571743632154350,279,1385571743632154350,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571744131164836,280,1385571744131164836,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571744631173899,281,1385571744631173899,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571745131159356,282,1385571745131159356,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571745631155360,283,1385571745631155360,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571746131155284,284,1385571746131155284,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571746465940416,22332,1385571746465940416,,2,/imlim,imlim::Current rate:  9.999Hz, delay: 0.00585s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571746631154380,285,1385571746631154380,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571747131157554,286,1385571747131157554,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571747631180202,287,1385571747631180202,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571748131207766,288,1385571748131207766,,2,/outdelay,outdelay::Delay time: 0.50005s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571748632167537,289,1385571748632167537,,2,/outdelay,outdelay::Delay time: 0.50099s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571749131159800,290,1385571749131159800,,2,/outdelay,outdelay::Delay time: 0.50004s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571749631469105,291,1385571749631469105,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571750131156969,292,1385571750131156969,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571750631455981,293,1385571750631455981,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571750640139222,103,1385571750640139222,,2,/flyvslam,flyvslam::Changed to waypoint: 4,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/waypoint_data.cpp,Vector<3> waypoint_data::getTargetPos,72,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571751131201472,294,1385571751131201472,,2,/outdelay,outdelay::Delay time: 0.50005s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571751632191592,295,1385571751632191592,,2,/outdelay,outdelay::Delay time: 0.50102s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571752131153035,296,1385571752131153035,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571752466107775,22333,1385571752466107775,,2,/imlim,imlim::Current rate:  9.983Hz, delay: 0.00001s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571752631184946,297,1385571752631184946,,2,/outdelay,outdelay::Delay time: 0.50003s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571753132216886,298,1385571753132216886,,2,/outdelay,outdelay::Delay time: 0.50104s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571753631414465,299,1385571753631414465,,2,/outdelay,outdelay::Delay time: 0.50023s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571754131292595,300,1385571754131292595,,2,/outdelay,outdelay::Delay time: 0.50012s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571754631189046,301,1385571754631189046,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571755132258184,302,1385571755132258184,,2,/outdelay,outdelay::Delay time: 0.50110s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571755631165905,303,1385571755631165905,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571756131189712,304,1385571756131189712,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571756631165660,305,1385571756631165660,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571757131168939,306,1385571757131168939,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571757631179107,307,1385571757631179107,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571758131171385,308,1385571758131171385,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571758465919185,22334,1385571758465919185,,2,/imlim,imlim::Current rate: 10.000Hz, delay: 0.00184s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571758632170004,309,1385571758632170004,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571759131412244,310,1385571759131412244,,2,/outdelay,outdelay::Delay time: 0.50024s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571759632160559,311,1385571759632160559,,2,/outdelay,outdelay::Delay time: 0.50091s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571760131155099,312,1385571760131155099,,2,/outdelay,outdelay::Delay time: 0.50001s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571760631170407,313,1385571760631170407,,2,/outdelay,outdelay::Delay time: 0.50002s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571760640158288,104,1385571760640158288,,2,/flyvslam,flyvslam::Changed to waypoint: 5,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/waypoint_data.cpp,Vector<3> waypoint_data::getTargetPos,72,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571761132144609,314,1385571761132144609,,2,/outdelay,outdelay::Delay time: 0.50100s,/home/kieran/fuerte_ardrone_workspace/sandbox/outdelay/src/outdelay.cpp,main,177,/rosout,/cmd_vel
+1385571761650225361,105,1385571761650225361,,2,/flyvslam,flyvslam::LANDING,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/flyvslam.cpp,main,851,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
+1385571764465941418,22335,1385571764465941418,,2,/imlim,imlim::Current rate:  9.999Hz, delay: 0.00378s,/home/kieran/fuerte_ardrone_workspace/sandbox/imlim/src/imlim.cpp,main,180,/rosout,/ardrone/image_mono_lim
+1385571764650647954,106,1385571764650647954,,2,/flyvslam,flyvslam::End flight script.,/home/kieran/fuerte_ardrone_workspace/sandbox/flyvslam/src/flyvslam.cpp,main,869,/rosout,/cmd_vel_del,/ardrone/takeoff,/ardrone/land,/vslam/key_pressed,/vicon_ned,/vslam_ned,/refer_ned,/vicon_vel,/vslam_vel
